@@ -2,7 +2,7 @@
 
 I used this program to help me improve my programming  skills and to help improve my problem solving skills.
 
-In this program, I made it so that the user can enter character information for a Dungeons and Dragons like list
+In this program, I made it so that the user can enter character information for a Dungeons and Dragons like character sheet
 
 I wanted to write this software to help me improve my skills with C++, I've been working on mastering certain aspects of the language and this code shows the knowledge that I've gained while working to improve my skills as a programmer.
 
